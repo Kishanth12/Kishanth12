@@ -25,12 +25,6 @@ Hi, I’m Kishanth 👋<br>Undergraduate IT student passionate about backend dev
 ![](https://nirzak-streak-stats.vercel.app/?user=kishanth12&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanth12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishanth12&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kishanth12&icon=7&color=1)](https://visitcount.itsvg.in)
 
