@@ -6,7 +6,6 @@ Undergraduate IT student passionate about backend development and web technologi
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [kishanthshanth12@gmail.com](mailto:kishanthshanth12@gmail.com )
-* 🧠  I'm currently learning Nestjs
 
 # 💻 Tech Stack:
 
