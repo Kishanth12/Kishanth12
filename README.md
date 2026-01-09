@@ -1,11 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kishanth
 =================================================================================================================================
 
-Undergraduate IT student passionate about backend development and web technologies.
------------------------------------------------------------------------------------
+Undergraduate IT Student | Full-Stack Developer passionate about backend development and web technologies
+----------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [kishanthshanth12@gmail.com](mailto:kishanthshanth12@gmail.com )
+* 🌐  Check out my portfolio: **[kishanthdev.com](https://personal-portfolio-frontend-xi.vercel.app/)**
+* ✉️  You can contact me at [kishanthshanth12@gmail.com](mailto:kishanthshanth12@gmail.com)
+
+<div align="center">
+  
+### 🚀 [View My Portfolio](https://personal-portfolio-frontend-xi.vercel.app/) 🚀
+
+</div>
+
+---
 
 # 💻 Tech Stack:
 
@@ -22,3 +31,10 @@ Undergraduate IT student passionate about backend development and web technologi
 
 <p align="left"> <a href="https://www.github.com/kishanth12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/kishanth-atputharasa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
+---
+
+<div align="center">
+  
+**💼 [Portfolio](https://personal-portfolio-frontend-xi.vercel.app/) • 💻 [GitHub](https://github.com/kishanth12) • 💼 [LinkedIn](https://www.linkedin.com/in/kishanth-atputharasa/)**
+
+</div>
