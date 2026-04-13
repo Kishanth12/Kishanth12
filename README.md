@@ -36,8 +36,8 @@ Undergraduate IT Student | Full-Stack Developer passionate about backend develop
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kishanth12/output/github-snake.svg" />
-<img src="https://raw.githubusercontent.com/kishanth12/output/github-snake-dark.svg" />
+<img src="https://github.com/kishanth12/kishanth12/blob/output/github-snake.svg" />
+<img src="https://github.com/kishanth12/kishanth12/blob/output/github-snake-dark.svg" />
 
 </div>
 <div align="center">
