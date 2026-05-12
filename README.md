@@ -4,18 +4,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="420"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="420"/>
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400"/>
     </td>
   </tr>
 </table>
 
 # Hi there 👋, I'm Kishanth
 
-
-<img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Undergraduate+IT+Student;Full Stack+Developer;Backend+Development+Focused;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Undergraduate+IT+Student;Full-Stack+Developer;Backend+Development+Focused;Always+Learning+New+Technologies" />
 
 </div>
 
