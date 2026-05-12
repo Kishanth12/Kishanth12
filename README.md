@@ -1,15 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kishanth
-=================================================================================================================================
+<div align="center">
 
-Undergraduate IT Student | Full-Stack Developer passionate about backend development and web technologies
-----------------------------------------------------------------------------------------------------------
+<!-- HERO GIFS SIDE BY SIDE -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="420"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="420"/>
+    </td>
+  </tr>
+</table>
 
-* 🌍  I'm based in Sri Lanka
-* 🌐  Check out my portfolio: **[kishanthdev.com](https://personal-portfolio-frontend-xi.vercel.app/)**
-* ✉️  You can contact me at [kishanthshanth12@gmail.com](mailto:kishanthshanth12@gmail.com)
+# Hi there 👋, I'm Kishanth
+
+
+<img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Undergraduate+IT+Student;Full Stack+Developer;Backend+Development+Focused;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+### 🌍 About Me
+
+- 📍 Based in Sri Lanka  
+- 💻 Full-Stack Developer (MERN / Modern Web Technologies)  
+- 🌐 Portfolio: [kishanthdev.com](https://personal-portfolio-frontend-xi.vercel.app/)  
+- ✉️ Contact: [kishanthshanth12@gmail.com](mailto:kishanthshanth12@gmail.com)
 
 <div align="center">
-  
+
 ### 🚀 [View My Portfolio](https://personal-portfolio-frontend-xi.vercel.app/) 🚀
 
 </div>
