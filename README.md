@@ -14,7 +14,8 @@
 
 # Hi there 👋, I'm Kishanth
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Graduate+HNDIT;Full-Stack+Developer;Backend+Development+Focused;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=IT+Graduate+HNDIT;Full-Stack+Developer;Backend+Development+Focused;Always+Learning+New+Technologies;IT+Support+&+Networking
+" />
 
 </div>
 
